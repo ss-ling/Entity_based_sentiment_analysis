@@ -16,8 +16,8 @@ Seaborn: 0.10.0
 
 To install this repo, please run:
 git clone https://github.com/ss-ling/Entity_based_sentiment_analysis.git
-\ncd ent_sent_analysis
-\npython ent_sent.py
+cd ent_sent_analysis
+python ent_sent.py
 
 
 
