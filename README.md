@@ -16,11 +16,13 @@ Seaborn: 0.10.0 <br />  <br />
 
 To install this repo and run from the command line, please run: <br />
 git clone https://github.com/ss-ling/Entity_based_sentiment_analysis.git <br />
+cd Entity_based_sentiment_analysis <br />
 cd ent_sent_analysis <br />
 python ent_sent.py
 
 Alternatively, to install the repo and run using jupyter notebook, please run: <br />
 git clone https://github.com/ss-ling/Entity_based_sentiment_analysis.git <br />
+cd Entity_based_sentiment_analysis <br />
 cd ent_sent_analysis <br />
 jupyter notebook
 
