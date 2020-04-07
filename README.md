@@ -1,7 +1,6 @@
 # Entity_based_sentiment_analysis
 
-Requirements: 
-
+Requirements: <br />
 Python: 3.7.0 <br />
 SpaCy: version 2.1.0 <br />
 SpaCy model: en_core_web_lg <br />
